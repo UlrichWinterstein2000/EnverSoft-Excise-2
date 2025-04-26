@@ -4,6 +4,6 @@
 
 dotnet run --project EnverSoft2 Data.csv
 
-### How to run
+### How to test
 
 dotnet test
